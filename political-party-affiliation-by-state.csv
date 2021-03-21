@@ -1,0 +1,52 @@
+State,Republican/lean Rep.,No lean,Democrat/lean Dem.,Sample Size,2020 Presidential Election,Governor
+Alabama,52,13,35,511,R,R
+Alaska,39,29,32,310,R,R
+Arizona,40,21,39,653,D,R
+Arkansas,46,16,38,311,R,R
+California,30,21,49,3697,D,D
+Colorado,41,17,42,504,D,D
+Connecticut,32,18,50,377,D,D
+Delaware,29,17,55,301,D,D
+District of Columbia,11,15,73,303,None,None
+Florida,37,19,40,2020,R,R
+Georgia,41,18,41,968,D,R
+Hawaii,28,20,51,312,D,D
+Idaho,49,19,32,320,R,R
+Illinois,33,19,48,1326,D,D
+Indiana,42,20,37,654,R,R
+Iowa,41,19,40,330,R,R
+Kansas,46,23,31,307,R,D
+Kentucky,44,13,43,439,R,D
+Louisiana,41,16,43,465,R,D
+Maine,36,17,47,303,"D, R",D
+Maryland,31,14,55,644,D,R
+Massachusetts,27,17,56,704,D,R
+Michigan,34,19,47,982,D,D
+Minnesota,29,15,46,563,D,D
+Mississippi,44,14,42,309,R,R
+Missouri,41,18,42,642,R,R
+Montana,49,21,30,312,R,R
+Nebraska,47,17,36,312,"D, R",R
+Nevada,37,18,46,314,D,D
+New Hampshire,35,20,44,303,D,R
+New Jersey,30,19,51,886,D,D
+New Mexico,37,15,48,312,D,D
+New York,28,19,53,1966,D,D
+North Carolina,41,17,43,1022,R,D
+North Dakota,50,18,33,338,R,R
+Ohio,42,18,40,1132,R,R
+Oklahoma,45,15,40,391,R,R
+Oregon,32,21,47,419,D,D
+Pennsylvania,39,15,46,1366,D,D
+Rhode Island,30,22,48,305,D,D
+South Carolina,43,18,39,495,R,R
+South Dakota,53,10,37,305,R,R
+Tennessee,48,15,36,661,R,R
+Texas,39,21,40,2535,R,R
+Utah,54,16,30,315,R,R
+Vermont,29,14,57,306,D,R
+Virginia,43,18,39,882,D,D
+Washington,33,23,44,714,D,D
+West Virginia,43,16,41,309,R,R
+Wisconsin,42,16,42,600,D,D
+Wyoming,57,18,25,316,R,R
